@@ -1,0 +1,110 @@
+@charset "utf-8";
+
+.logo{
+	width: 50px;
+	height: 50px;
+}
+
+.rodape{
+	text-align: center;
+	text-decoration: none;
+	padding: 10px;
+	clear: both;
+	border-top: 2px solid black;	
+}
+
+h1{
+	text-align: center;
+}
+
+body{
+	
+	background-color: rgba(0,0,0,0.3);
+}	
+
+.corpo1{
+	padding-top: 10px;
+	padding-bottom: 10px;
+	
+}
+
+.corpo2{
+	padding-bottom:12px;
+}
+
+
+.col-sm-4{
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+
+.textodireito{
+	padding-top:50px;
+	border-left: 2px solid black;
+	border-top: 2px solid black;
+
+}
+.textodireito1{
+	padding-top: 20px;
+	border-left: 2px solid black;
+	
+}
+
+/* CSS DE CONTATOS */
+
+h4{
+	text-align: center;
+	padding-bottom:10px;
+	padding-top: 10px;
+}
+
+legend{
+	padding-bottom: 10px;
+	font-family: arial, Helvetica, sans-serif;
+	
+}
+
+.formulario{
+	padding-bottom: 15px;
+}
+
+/* CSS FOTOS */
+
+
+.galeria{
+	background-color: #dbddf1;
+	padding: 20px 0;
+}
+
+.galeria img{
+	max-width: 100%;
+	/* background-color: #ffffff; */
+	padding: 15px;
+	width:100%;
+	
+}
+
+.aumentar:hover{
+z-index: 5; /*Trazer pra frente*/
+	
+-webkit-transform: scale(1.5);
+}
+
+.fotop{
+	text-align: center;
+	font-family: Arial, Helvetica, sans-serif;
+	padding-top: 10px;
+}
+
+/* vídeos css */
+
+.video1{
+	padding-bottom: 8px;
+	padding-top: 8x;
+}
+
+.video2{
+	padding-bottom: 5px;
+	
+}
