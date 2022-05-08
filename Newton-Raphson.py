@@ -24,7 +24,7 @@ while(erro > 0.005):
     x = y
     #print(erro)
 
-print(f"Uma das raízes é {x}")
+print(f"Uma das raízes é \033[1:35m{x}\033[m")
 
 
 
