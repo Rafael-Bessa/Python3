@@ -11,6 +11,7 @@ print(30*"~")
 print("Método de Newton-Raphson")
 print("Exercício para uma equação de\033[1:31m TERCEIRO GRAU\033[m")
 erro = 1
+zero = True
 
 a = int(input("O valor para o termo que multiplica x³: >>> "))
 b = int(input("O valor para o termo que multiplica x²: >>> "))
@@ -19,12 +20,16 @@ d = int(input("O valor para o termo independente: >>> "))
 x = float(input("Qual seu chute inicial para começar? >>> "))
 
 while(erro > 0.005):
-    y = x - (funcao(a, b, c, d, x)/funcao_derivada(a,b,c,x))
-    erro = abs((y-x)/y)
-    x = y
-    #print(erro)
+    try:
+        y = x - (funcao(a, b, c, d, x)/funcao_derivada(a,b,c,x))
+        erro = abs((y-x)/y)
+        x = y
+    except ZeroDivisionError:
+        zero = False
+        print("Parece que você está tentando dividir por \033[1:34mZERO\033[m")
+        break
 
-print(f"Uma das raízes é \033[1:35m{x}\033[m")
+if zero: print(f"Uma das raízes é \033[1:35m{x}\033[m\nEssa é a raíz mais próxima do seu chute")
 
 
 
