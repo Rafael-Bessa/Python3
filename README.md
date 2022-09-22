@@ -20,4 +20,6 @@ https://cursos.alura.com.br/certificate/23a982c3-4c2a-44f0-bc06-92c312e690fd
 
 https://cursos.alura.com.br/certificate/7c451134-18fc-4e21-aa0b-d43b7e3e635b
 
-Os demais certificados estão em PDF no próprio repositório.
+https://www.coursera.org/account/accomplishments/verify/2FU5RER5PYR7
+
+https://www.coursera.org/account/accomplishments/verify/3KDUX5PPFAQW
