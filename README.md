@@ -2,8 +2,12 @@
 Desafios e Exercícios em Python 3
 
 
+![Python](https://user-images.githubusercontent.com/104053775/192935633-f9afa474-38c2-4855-b6b3-ce9a318d8450.jpg)
+
+
+
 Python foi a linguagem que eu comecei a programar no ano de 2022, este é o meu primeiro repositório, onde eu agrupei exercícios e desafios que eu encontrei nos cursos realizados.
-Na linguaguem Python eu fiz alguns cursos pela Alura e fiz a Formação 'Introdução a Ciência da Computação' da USP no site do Coursera.org
+Na linguaguem Python eu fiz alguns cursos pela Alura e fiz a Formação 'Introdução à Ciência da Computação' da USP no site do Coursera.org
 
 O objetivo destes exercícios e desafios, era exercitar a lógica de programação, para futuros desafios maiores.
 
