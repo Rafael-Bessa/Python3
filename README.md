@@ -6,7 +6,7 @@ Desafios e Exercícios em Python 3
 
 
 
-Python foi a linguagem que eu comecei a programar no ano de 2022, este é o meu primeiro repositório, onde eu agrupei exercícios e desafios que eu encontrei nos cursos realizados.
+!!!**Python**!!! foi a linguagem que eu comecei a programar no ano de 2022, este é o meu primeiro repositório, onde eu agrupei exercícios e desafios que eu encontrei nos cursos realizados.
 Na linguaguem Python eu fiz alguns cursos pela Alura e fiz a Formação 'Introdução à Ciência da Computação' da USP no site do Coursera.org
 
 O objetivo destes exercícios e desafios, era exercitar a lógica de programação, para futuros desafios maiores.
