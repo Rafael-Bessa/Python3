@@ -8,6 +8,7 @@ Na linguaguem Python eu fiz alguns cursos pela Alura e fiz a Formação 'Introdu
 
 O objetivo destes exercícios e desafios, era exercitar a lógica de programação, para futuros desafios maiores.
 
+:beginner: :beginner:
 
 Abaixo alguns certificados sobre o Python: 
 
